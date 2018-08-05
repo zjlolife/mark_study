@@ -1,0 +1,10 @@
+# spring 源码分析概述
+
+从实习到现在做java大概有5年了，看过很多东西，从java基础，java8,线程，锁，Spring，spring boot，spring clound config，eureka，rocketmq，redis，tair，netty，dubbo，kafaka，hive，storm，hbase，es及设计模式等涉猎了很多技术，却很少去总结。回过头来看感觉自己啥都会，但就是不精，想提升自己。因此现在从spring开始一步一步脚印回顾自己以前所学的知识，将知识做个系统的梳理。
+
+下面列出spring源码分析几个要点，毕竟东西太多，从大的方面开始入手，逐个击破。
+
+不过话又说转来，在没有涉猎很多技术下，我觉得也很难系统性的去总结，现在五年了，我觉得是个比较好的时机，大部分技术都见过，对自己系统整理还是有好处。
+
+1. spring AnnotationConfigApplicationContext
+
